@@ -2,9 +2,9 @@ User stories for prototype build
 
 Medical Staff
 
-•	As a medical staff I want to be able to register with a station so that I can receive an alert message on my phone when there is a problem with a patient. 
-•	As a medical staff I want the system to have all the separate modules so that I can be able to select which module is used to monitor the behaviour of a patient.
-•	As a medical staff, I want to be able to deregister from the system when my call time expires.
+•	As a medical staff, I want to be able to register with a station so that I can receive an alert message on my phone when there is a problem with a patient. 
+•	As a medical staff, I want the system to have all the separate modules so that I can be able to select which module is used to monitor the behaviour of a patient.
+•	As a medical staff, I want to be able to de-register from the system when my call time expires.
 •	As a medical staff, I want the system to trigger an alarm when patient requires my intervention.
 
 Central Station

@@ -1,0 +1,17 @@
+User stories for prototype build
+
+Medical Staff
+
+•	As a nurse I need to be able to select which Patient results I am viewing so that I am viewing the correct one.
+•	As a nurse I need to be able to set alarm limits so that if any of my patients go over the recomended limits I am aware.
+•	As a nurse I need to be able to mute a patient alarm when I have seen to them, so that other nurses or doctors are aware it has been dealt with
+
+
+Patient 
+
+•	As a patient I need to be able to raise an alarm if I feel that my levels are going too high so that a nurse or doctor can be made aware.
+
+
+I have completed the user stories for the Patient Monitor section of the requirements. 
+Please could you add on the 2nd requirement Jack? The bit about the hardware modules and further development. 
+I have also updated the board over at Trello. The user stories should all be complete. 

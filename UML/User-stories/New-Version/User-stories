@@ -1,0 +1,25 @@
+Medical Staff
+
+•	As a medical staff I want to be able to register with a station so that I can receive an alert message on my phone when there is a problem with a patient. 
+•	As a medical staff I want the system to have all the separate modules so that I can be able to select which module is used to monitor the behaviour of a patient.
+•	As a medical staff, I want to be able to deregister from the system when my call time expires.
+•	As a medical staff, I want the system to trigger an alarm when patient requires my intervention.
+
+Central Station
+
+•	As an operator, I want to monitor all bedside systems in a bay, so that I can monitor an entire bay at once. (Make sure you can monitor all 8 bays at once).
+•	As an operator, I want any bedside system that triggers an alarm to be clearly visible, so that it is clearly visible, so that it is visible at a glance.
+
+Patient Monitor
+
+•	As an administrator, I would like to display a numeric value which can be adjusted to suit different patients. 
+•	As an administrator, I would like to select the modules used to monitor the behaviour of the patient to see the current readings of each module. 
+•	As an administrator, I would like the bedside system to poll the modules periodically modules and display the readings. Of each of the module.
+•	As an administrator, I would like the monitoring modules to detect a condition and trigger an alarm on the bedside system. To also inform the central with an appropriate message.
+•	As an administrator, I would like to monitor a full range of patient details, such as heart eate, pulse rate, etc , so that I can see the rates.
+
+Management
+
+•	As a manager, I want to store response times, so that I can see where I need staff improvements.
+•	As a manager, I want to have a staff rota, so that I know when my staff are at work and who is available. 
+
